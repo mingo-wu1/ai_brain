@@ -20,6 +20,7 @@ message("======================================")
 include_directories()
 add_executable(${PROJECT_NAME} main.cpp)
 target_link_libraries(${PROJECT_NAME})
+install(TARGETS ${PROJECT_NAME} RUNTIME DESTINATION ${CMAKE_INSTALL_PREFIX}/bin)
 
 if(USE_DATA_STRUCTURE)
 add_subdirectory(data_structure)
