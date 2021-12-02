@@ -34,3 +34,6 @@
 # Build file
 build
 release
+
+# vscode config file
+.vscode
