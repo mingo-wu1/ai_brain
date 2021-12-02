@@ -1,3 +1,6 @@
 [submodule "ai_python/nuwa/NUWA"]
 	path = ai_python/nuwa/NUWA
 	url = https://hub.fastgit.org/microsoft/NUWA.git
+[submodule "ZLMediaKit"]
+	path = live_serve/ZLMediaKit
+	url = git@github.com:ZLMediaKit/ZLMediaKit.git
