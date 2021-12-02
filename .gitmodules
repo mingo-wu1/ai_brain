@@ -1,0 +1,3 @@
+[submodule "ai_python/nuwa/NUWA"]
+	path = ai_python/nuwa/NUWA
+	url = https://hub.fastgit.org/microsoft/NUWA.git
